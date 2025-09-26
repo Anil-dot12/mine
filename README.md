@@ -1,3 +1,3 @@
 # mine
 
-hello i am lina
+ i am lina
